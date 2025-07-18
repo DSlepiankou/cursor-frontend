@@ -1,1 +1,1 @@
-# ebobo-frontend
+# cursor-frontend
